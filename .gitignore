@@ -1,6 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 # 0xfC80e4a790C75C6D76f180c9b05D190aD1E6b1f8-contract address
 
+
+# contract address tpg - 0xfFB57d1931358BA561b8700A7C6f06F9Cf9CC641
+
 # dependencies
 /node_modules
 /.pnp
