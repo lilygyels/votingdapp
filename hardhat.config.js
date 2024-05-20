@@ -29,3 +29,14 @@ module.exports = {
     },
   },
 };
+
+
+
+
+
+
+
+// const PRIVATE_KEY = "276329d2d78fd89b4f3b63afda907c98a027b5de1c99d337ca646d5cc54deeaa"
+
+
+// url: "https://eth-sepolia.g.alchemy.com/v2/6na4nDAVFDZuHatRSfWS_OZpqDskOet2",
